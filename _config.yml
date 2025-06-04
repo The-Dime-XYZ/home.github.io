@@ -3,7 +3,7 @@ description: The Dime
 baseurl: "" # set to "/repo-name" if deploying under a subfolder
 url: "http://localhost:4000" # change to your domain in production
 
-baseurl: "/home.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 sass:
   sass_dir: _sass
